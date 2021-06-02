@@ -1,0 +1,27 @@
+.addtodo input[type=text]
+{
+    width:450px;
+    height:40px;
+    border:2px solid #aaa;
+    border-radius:4px;
+    margin:8px 0;
+    outline:none;
+    padding:8px;
+    box-sizing:border-box;
+    
+}
+.addtodo button{
+    border-top: 90px;
+    height:40px;
+    width:70px;
+    border-radius:10px;
+}
+.addtodo{
+    background-color: rgb(28, 208, 221);
+    box-sizing: border-box;  
+  width: 600px;
+  height: 520px;
+  padding: 30px;  
+  border: 2px solid rgb(31, 231, 245);
+  box-shadow: 0 2px 6px rgba(69, 220, 240, 0.5);
+}
